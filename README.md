@@ -1,5 +1,7 @@
 # Testface
 
-a simpel facerecognition system based on triplet loss
+a facerecognition system using laptop camera
+
+based on multi-layer convolutional neural network
 
 /you need to run GUI.ipynb
